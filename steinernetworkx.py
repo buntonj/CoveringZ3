@@ -1,3 +1,4 @@
+import itertools as it
 from itertools import combinations, chain
 from collections import namedtuple,defaultdict
 from networkx.utils import pairwise
